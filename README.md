@@ -5,6 +5,10 @@ First, install dependencies:
 ```bash
 npm install
 ```
+Then create `.env.local` file
+And add the following variables:
+ADMIN_EMAIL;
+ADMIN_PASSWORD;
 
 Then, run the development server:
 
